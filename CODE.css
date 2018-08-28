@@ -1,0 +1,358 @@
+*{
+    margin: 0px;
+    padding: 0px;
+     
+}
+
+.title{
+    font-size: 20px;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    font-style:oblique;
+ width: 270px;
+    position: absolute;
+    top: 3px;
+    padding-left: 32px;
+    height: 40px;
+    position: absolute;
+    left: 16px;
+}
+
+#t{
+  position: absolute;  
+    top:7px;
+    left:20px;
+}
+
+.title:hover{
+   
+    background-color: #D0D3D4;
+    border-radius: 4px;
+}
+
+.nb{
+    
+    font-size: 20px;
+    margin-left: 800px;
+    margin-bottom: 100px;
+    float:up;
+    max-width: 800px;
+    position: absolute ;
+    left: 125px;
+    top: 10px;
+     height: 50px;
+    
+}
+
+#nb1{
+    text-decoration: none;
+    font-style: oblique;
+    letter-spacing:2px; 
+    margin-right: 50px;
+}
+#nb1:hover {
+    background-color:#D0D3D4 ; 
+     border-radius: 4px;
+    text-decoration: none;
+}
+
+
+#nb2{
+    text-decoration: none;
+font-style: oblique;
+    letter-spacing:2px;
+    margin-right: 50px;
+}
+#nb2:hover {
+    background-color:#D0D3D4 ; 
+     border-radius: 4px;
+}
+#nb3{
+    font-style: oblique;
+    text-decoration: none;
+margin-right: 50px;
+    letter-spacing:2px;
+}
+#nb3:hover {
+    background-color:#D0D3D4 ; 
+     border-radius: 4px;
+}
+.mydiv-img{
+  
+    background-repeat: no-repeat;
+    width: 1250px;
+    height: 500px;
+    position: absolute;
+    top: 50px;
+  right: 30px;
+}
+.in-img{
+    color: red;
+    position: absolute;
+    top: 430px;
+    left: 45px;
+    font-style: oblique;
+    font-size: 40px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+  background: rgba(0,0,0,0.0);
+    color:#D0D3D4  ;
+    
+}
+.mid-left{
+    height: 600px;
+    width: 1200px;
+    position: absolute;
+   top: 600px;
+    left: 90px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+#header1{
+    position: absolute;
+    top: 10px;
+   left: 700px;
+    font-style: oblique;
+    font-size: 35px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+#header2{
+    position: absolute;
+    top: 80px;
+    left: 712px;
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+}
+#myp{
+    position: absolute;
+    width: 490px;
+    height: 450px;
+    top: 120px;
+    left: 590px;
+    text-align: left;
+    line-height: 150%;
+    font-size: 20px;
+    margin: 2px;
+    font-weight: lighter;
+    font-style: oblique;
+    
+}
+#sp1{
+    background-color: #D7DBDD    ;
+    border-radius: 2px;
+    
+}
+
+
+#sp2{
+   color:#A6ACAF;
+    
+}
+
+.line3{
+    
+    background-color: #A6ACAF;
+   width: 1130px;
+    height: 2px;
+    position: absolute;
+    top: 1280px;
+    left: 89px;
+    border-radius: 2px; 
+}
+
+.part3{
+    background-image: url(images/french_onion_soup_400x6001.jpg);
+    box-sizing: border-box;
+   
+    width: 1200px;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 85% -50%;
+    position: absolute;
+    top:80px;
+    right: -30px;
+   }
+
+.left{
+position: absolute;
+    top:20px;
+    left: 20px;
+    height: 550px;
+    width: 650px;
+    
+}
+#menu {
+    font-style: oblique;
+    font-size: 30px;
+    position: absolute;
+    right: 260px;
+    top:-10px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+
+#bread-p,#HoneyAlmond-p,#Waffle-p,#Scrambledegg-p,#Blueberry-p{
+    
+   font-size: 25px;
+    font-style: oblique;
+    font-weight: lighter;
+    word-spacing: 4px;
+    letter-spacing: 5px;
+    padding: 15px;
+    text-align: left;    
+}
+
+#bread-child,#HoneyAlmond-child,#Waffle-child,#Scrambledegg-child,#Blueberry-child
+{
+    
+    font-size: 18px;
+    padding: 12px;
+   font-style: oblique;
+    font-weight: 100;
+}
+
+
+.line4{
+    
+    background-color: #A6ACAF;
+   width: 1130px;
+    height: 2px;
+    position: absolute;
+    top: 720px;
+    left: -15px;
+    border-radius: 2px; 
+}
+.info{
+    width: 1200px;
+    height: 600px;
+    position: absolute;
+    top:780px;
+    right: -35px;
+    box-sizing: border-box;
+}
+#con{
+    
+    text-indent: 25px;
+    padding: 2px;
+    position: absolute;
+    top: 10px;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 4px;
+}
+
+#con-l1{
+ position: absolute;
+    top:100px;
+    font-size: 15px;
+    text-indent: 25px;
+    text-align: left;
+    word-spacing: 1px;
+    font-weight: 100;
+}
+#hey{
+    position: absolute;
+    left:1px;
+}
+
+#con-l2{
+    position: absolute;
+    top:150px;
+    text-indent: 25px;
+    color: #2471A3  ;
+}
+
+#con-l3{
+    position: absolute;
+    top:200px;
+    text-indent: 25px;
+    font-weight: 100;
+    font-size: 15px;
+    
+}
+.MyForm-container{
+    position: absolute;
+    top:1010px;
+    width:1080px;
+    height: 300px;
+    left:-8px;
+}
+
+
+/*Name , Message*/
+input[type=text]{
+    width:1080px;
+    height: 55px;
+    text-align: left;
+    text-indent: 2px;
+    color: #BDC3C7  ;
+    border-width:0px;
+    border-bottom-width: 1px;
+    border-bottom-color: #D0D3D4;
+    color: black;
+}
+
+/*HmPeople*/
+input[type=number]{    
+     width:1080px;
+    height: 55px;
+     text-indent: 2px;
+    color: #BDC3C7  ;
+    border-width:0px;
+    border-bottom-width: 1px;
+    border-bottom-color: #D0D3D4;
+    color: black;
+    }
+
+input[type=datetime-local]{
+     width:1080px;
+    height: 55px;
+     text-indent: 2px;
+    text-decoration: none;
+    border-width:0px;
+    border-bottom-width: 1px;
+    border-bottom-color: #D0D3D4;
+    color: black;
+    }
+
+.w3-button{
+    width:125px;
+    height: 40px;
+    text-align: left;
+    text-indent: 8px;
+    border-width: 0px;
+    background-color: #D0D3D4;
+    position: absolute;
+    top:250px;
+    border-radius: 4px;
+}
+
+.w3-button:hover{
+    background-color:#979A9A;
+    border-radius: 4px;
+}
+
+.final{
+    position: absolute;
+    width:1200px;
+    height: 40px;
+    top:1350px;
+    background-color:#D0D3D4;
+    left: -40px;
+    border-radius: 5px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 100;
+}
+#spf{
+    position: absolute;
+    top:7px;
+    right: 480px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
